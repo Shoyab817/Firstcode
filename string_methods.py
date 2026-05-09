@@ -1,1 +1,4 @@
-print("Hello World")
+# print("Hello World")
+
+name = " lorem ipsum "
+print(len(name))
