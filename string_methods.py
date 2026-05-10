@@ -1,4 +1,4 @@
 # print("Hello World")
 
-name = " lorem ipsum "
+name = " lorem ipsum abcd"
 print(len(name))
