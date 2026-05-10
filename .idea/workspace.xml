@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b1e337-019e-4f89-95d2-ad4d35073226" name="Changes" comment="Created number repeat magic project">
-      <change beforePath="$PROJECT_DIR$/string_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_methods.py" afterDir="false" />
-    </list>
+    <list default="true" id="d2b1e337-019e-4f89-95d2-ad4d35073226" name="Changes" comment="Created number repeat magic project" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +85,7 @@
       <workItem from="1778160093351" duration="1388000" />
       <workItem from="1778238977191" duration="4461000" />
       <workItem from="1778323068888" duration="4386000" />
-      <workItem from="1778406896771" duration="471000" />
+      <workItem from="1778406896771" duration="818000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
