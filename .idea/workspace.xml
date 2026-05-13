@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2b1e337-019e-4f89-95d2-ad4d35073226" name="Changes" comment="Created number repeat magic project" />
+    <list default="true" id="d2b1e337-019e-4f89-95d2-ad4d35073226" name="Changes" comment="Created number repeat magic project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/typecasting.py" beforeDir="false" afterPath="$PROJECT_DIR$/typecasting.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +52,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.string_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.typecasting.executor&quot;: &quot;Run&quot;,
     &quot;Python.variable.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -85,7 +89,8 @@
       <workItem from="1778160093351" duration="1388000" />
       <workItem from="1778238977191" duration="4461000" />
       <workItem from="1778323068888" duration="4386000" />
-      <workItem from="1778406896771" duration="818000" />
+      <workItem from="1778406896771" duration="2787000" />
+      <workItem from="1778696237547" duration="867000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -123,8 +128,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Created number repeat magic project" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$typecasting.coverage" NAME="typecasting Coverage Results" MODIFIED="1778411617758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1778160659745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$variable.coverage" NAME="variable Coverage Results" MODIFIED="1778340683085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1778407453180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$string_methods.coverage" NAME="string_methods Coverage Results" MODIFIED="1778407595630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
